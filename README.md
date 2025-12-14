@@ -47,9 +47,11 @@ end endmodule
 # RegisterNumber:25007434
 # RTL LOGIC FOR FLIPFLOPS
  
-  <img width="1061" height="600" alt="image" src="https://github.com/user-attachments/assets/3b0c6b95-7759-456f-b485-1abe0d7658a8" />
+  <img width="1012" height="567" alt="image" src="https://github.com/user-attachments/assets/223be4e3-e8af-4ee2-bf3a-b3c52b045b00" />
+
 # TIMING DIGRAMS FOR FLIP FLOPS
 
-<img width="1007" height="146" alt="image" src="https://github.com/user-attachments/assets/d7c1d045-7d60-460e-b407-e99e06b56095" />
+<img width="1120" height="702" alt="image" src="https://github.com/user-attachments/assets/010522e3-8cd7-4a94-aca1-f690ee152f34" />
+
 # RESULTS 
 Thus the logic gate and timing diagram for Filpflop is verified.
